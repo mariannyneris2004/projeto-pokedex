@@ -1,2 +1,2 @@
 # projeto-pokedex
-Projeto para o módulo "Primeiras páginas interativas com JavaScript"
+https://pokedex-marianny.netlify.app/
