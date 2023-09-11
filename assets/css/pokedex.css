@@ -71,6 +71,9 @@
     background-color: #f9aec7;
 }
 
+a {
+    text-decoration: none;
+}
 
 .pokemons {
     display: grid;
